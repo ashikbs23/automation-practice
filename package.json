@@ -1,0 +1,27 @@
+{
+  "name": "automationpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashikbs23/automation-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashikbs23/automation-practice/issues"
+  },
+  "homepage": "https://github.com/ashikbs23/automation-practice#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^24.10.2"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "fs-extra": "^11.3.2"
+  }
+}
